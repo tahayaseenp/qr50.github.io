@@ -1,7 +1,7 @@
 # QR50
 Generate and read QR Codes anywhere and everywhere! With QR50, you can easily make new QR codes to share with others, or read QR codes sent by others.
 
-## Download
+# Download
 [Download now from GitHub!](https://github.com/tahayaseenp/qr50/releases)
 
 #### WARNING
@@ -22,9 +22,9 @@ Many thanks to the developers of the following Python libraries used in this pro
 
 Many thanks to Prof. David Malan for teaching CS50x online, and to Prof. Ahmad Essayed for introducing me to CS50x.
 
-Prof David Malan: https://cs.harvard.edu/malan/
+[Find Prof David Malan here](https://cs.harvard.edu/malan/)
 
-Prof Ahmad Essayed: https://ae.linkedin.com/in/ahmadessayed
+[Find Prof Ahmad Essayed here](https://ae.linkedin.com/in/ahmadessayed)
 
 Thanks to my incredible friends Jessey, Aparna, Shehzad and Abdullahir for testing out the program on their devices to help me find errors.
 
