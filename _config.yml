@@ -1,6 +1,6 @@
 remote_theme: lewismiddleton/cayman-dark
 
 title: QR50
-description: A lightweight utility that generates and reads QR codes on laptops.
+description: A lightweight utility that generates and reads QR codes on Windows.
 github:
   is_project_page: false
