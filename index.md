@@ -7,7 +7,7 @@ Generate and read QR Codes anywhere and everywhere! With QR50, you can easily ma
 <!--GitHub Pages Watermark Remover-->
 <!--Added by imrolii, see how-to guide here: https://imrolii.github.io/remove-pages-watermark -->
 <script>
-  var x = document.getElementsByClassName("site-footer-credits"); 
+  var x = document.getElementsByClassName("site-footer"); 
   setTimeout(() => { x[0].remove(); }, 10); 
 </script>
 
